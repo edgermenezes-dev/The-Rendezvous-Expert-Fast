@@ -1,0 +1,21 @@
+{
+  "short_name": "Rendezvous Experts",
+  "name": "The Rendezvous Experts - Lead Generation Platform",
+  "icons": [
+    {
+      "src": "https://avatars.githubusercontent.com/in/1201222?s=120&u=2686cf91179bbafbc7a71bfbc43004cf9ae1acea&v=4",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/in/1201222?s=120&u=2686cf91179bbafbc7a71bfbc43004cf9ae1acea&v=4",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "description": "All-in-One Marketing Platform for Lead Generation in India"
+}
