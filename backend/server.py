@@ -70,6 +70,10 @@ async def get_status_checks():
 # Include the router in the main app
 app.include_router(api_router)
 
+# Add compression middleware for performance
+app.add_middleware(GZipMiddleware, minimum_size=1000)
+
+# CORS middleware
 app.add_middleware(
     CORSMiddleware,
     allow_credentials=True,
